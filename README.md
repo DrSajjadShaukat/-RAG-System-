@@ -1,2 +1,2 @@
 # -RAG-System-
-Retrieval Augmented Generation  system - Answer questions from your own  documents using Claude API
+Retrieval-Augmented Generation system that retrieves relevant information from documents and generates accurate answers
